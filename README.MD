@@ -4,13 +4,12 @@
   <img src="https://readme-typing-svg.herokuapp.com/?lines=Full-Stack+Developer+💖;Frontend+Enthusiast+🌸;Code+Creator+🦄;&font=Fira%20Code&center=true&width=380&height=50&duration=4000&pause=1000&color=FF69B4">
 </div>
 
-<img align="right" alt="coding girl" width="400" src="https://static.wikia.nocookie.net/legendsofthemultiuniverse/images/b/b9/Giphy3_psyduck.gif/revision/latest?cb=20191022064628">
+<img align="right" alt="Vaish ki Aish" width="300" src="https://static.wikia.nocookie.net/legendsofthemultiuniverse/images/b/b9/Giphy3_psyduck.gif/revision/latest?cb=20191022064628">
 
 ## 🌸 About Me:
 - 🎓 Computer Science student at **VIT **  💕
 - 🌱 Currently mastering React, Node.js, Next.js 🌿 
 - 🌟 *Passionate about*: Full-stack development
-- 🦄 *Fun fact*: I love building innovative projects that make a difference! 
 - 📍 *Location*: Delhi, India 🇮🇳
 
 ## 💖 Let's Connect:
@@ -34,7 +33,8 @@
 
 *🛠 Tech Stack*: Next.js • React • Tailwind • Convex • Clerk
 
-✨ Multi-language coding platform (10+ languages!)  
+✨ Multi-language coding platform
+💕 Supports more than 10+ languages 
 🔐 Secure auth with authenticated platform  
 🌈 Real-time sync magic ✨
 
@@ -80,30 +80,7 @@
 <img src="https://img.shields.io/badge/Git-🌟-DDA0DD?style=for-the-badge&logo=git&logoColor=white&labelColor=9370DB"/> 
 <img src="https://img.shields.io/badge/VS%20Code-💖-FFB6C1?style=for-the-badge&logo=visual-studio-code&logoColor=white&labelColor=FF69B4"/>
 </p>
-
-## 🏆 Certifications & Achievements:
-
-<div align="left">
-<table>
-<tr>
-<td align="left">☁</td>
-<td><strong>Cloud Computing</strong><br/><em>NPTEL</em></td>
-</tr>
-<tr>
-<td align="left">🔒</td>
-<td><strong>Cybersecurity Foundations</strong><br/><em>Google Career Certificate</em></td>
-</tr>
-<tr>
-<td align="left">🌐</td>
-<td><strong>Computer Networking</strong><br/><em>Google Career Certificate</em></td>
-</tr>
-<tr>
-<td align="left">📊</td>
-<td><strong>Marketing Analytics</strong><br/><em>NPTEL</em></td>
-</tr>
-</table>
-</div>
-
-
-
+<p align="center"> 
+  <img src="https://komarev.com/ghpvc/?username=sumitkshaw&label=Profile%20views&color=0e75b6&style=flat" alt="sumitkshaw" /> 
+</p>
 </div>
