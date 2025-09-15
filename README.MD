@@ -35,8 +35,7 @@
 **🛠️ Tech Stack**: Next.js • React • Tailwind • Convex • Clerk
 
 ✨ Multi-language coding platform (10+ languages!)  
-🔐 Secure auth with 200+ happy users  
-🎭 15+ gorgeous themes with 98% mobile love  
+🔐 Secure auth with authenticated platform  
 🌈 Real-time sync magic ✨
 
 </td>
@@ -105,7 +104,6 @@
 </table>
 </div>
 
-### 💖 Thanks for visiting! Let's build something amazing together! 💖
 
 
 </div>
