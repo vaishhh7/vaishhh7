@@ -31,7 +31,7 @@
 ### 🎨 SaaS Code Editor Platform
 <img src="https://img.shields.io/badge/Status-✨%20Live-FF69B4?style=flat-square"/>
 
-*🛠 Tech Stack*: Next.js • Convex • Clerk
+*🛠 Tech Stack*: Next.js • Convex • Clerk • React
 
 - 🎥 Multi-language coding platform 
 - 💻 Supports more than 10+ languages  
@@ -44,7 +44,7 @@
 ### 💼 Real-Time Interview Platform
 <img src="https://img.shields.io/badge/Status-🚀%20Active-98FB98?style=flat-square"/>
 
-*🛠 Tech Stack*: Next.js • Stream • Convex
+*🛠 Tech Stack*: Next.js • Stream • Convex • React
 
 - 🎥 Real-time video calls & screen sharing  
 - 💻 Multi-language editor 
