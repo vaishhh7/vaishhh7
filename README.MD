@@ -81,6 +81,6 @@
 <img src="https://img.shields.io/badge/VS%20Code-💖-FFB6C1?style=for-the-badge&logo=visual-studio-code&logoColor=white&labelColor=FF69B4"/>
 </p>
 <p align="center"> 
-  <img src="https://komarev.com/ghpvc/?username=sumitkshaw&label=Profile%20views&color=0e75b6&style=flat" alt="sumitkshaw" /> 
+  <img src="https://komarev.com/ghpvc/?username=vaishhh7&label=Profile%20views&color=0e75b6&style=flat" alt="vaishhh7" /> 
 </p>
 </div>
