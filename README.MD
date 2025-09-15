@@ -26,7 +26,7 @@
 
 <table align="center">
 <tr>
-<td width="50%">
+<td width="50%" valign="top">
 
 ### 🎨 SaaS Code Editor Platform
 <img src="https://img.shields.io/badge/Status-✨%20Live-FF69B4?style=flat-square"/>
@@ -37,13 +37,13 @@
 - ⚡ Real-time sync magic
 
 </td>
-<td width="50%">
+<td width="50%" valign="top">
 
 ### 💼 Real-Time Interview Platform
 <img src="https://img.shields.io/badge/Status-🚀%20Active-98FB98?style=flat-square"/>
 
-- 🎥 Real-time video calls   
-- 💻 Multi-language editor 
+- 🎥 Real-time video calls & screen sharing  
+- 💻 Multi-language editor with 20+ problems  
 - 👥 Smart role-based authentication  
 - ⚡ Lightning-fast scheduling system
 
