@@ -32,7 +32,7 @@
 <img src="https://img.shields.io/badge/Status-✨%20Live-FF69B4?style=flat-square"/>
 
 - 🎥 Multi-language coding platform 
-- 💻 Supports more than 10+ languages  
+- 💻 Supports 10+ languages  
 - 👥 Secure and authenticated platform
 - ⚡ Real-time sync magic
 
