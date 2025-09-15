@@ -44,7 +44,7 @@
 ### 💼 Real-Time Interview Platform
 <img src="https://img.shields.io/badge/Status-🚀%20Active-98FB98?style=flat-square"/>
 
-*🛠 Tech Stack*: Next.js • React • Stream • Convex
+*🛠 Tech Stack*: Next.js • Stream • Convex
 
 - 🎥 Real-time video calls & screen sharing  
 - 💻 Multi-language editor 
