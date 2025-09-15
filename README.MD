@@ -4,7 +4,7 @@
   <img src="https://readme-typing-svg.herokuapp.com/?lines=Full-Stack+Developer+💖;Frontend+Enthusiast+🌸;Code+Creator+🦄;&font=Fira%20Code&center=true&width=380&height=50&duration=4000&pause=1000&color=FF69B4">
 </div>
 
-<img align="right" alt="coding girl" width="400" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Flegendsofthemultiuniverse.fandom.com%2Fwiki%2FPsyduck&psig=AOvVaw0tJHeXSiW-p3qGJHgUOLDX&ust=1758003722747000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCKC6w7SQ2o8DFQAAAAAdAAAAABAE">
+<img align="right" alt="coding girl" width="400" src="https://legendsofthemultiuniverse.fandom.com/wiki/Psyduck?file=Giphy3_psyduck.gif">
 
 ## 🌸 About Me:
 - 🎓 Computer Science student at **VIT **  💕
@@ -107,7 +107,5 @@
 
 ### 💖 Thanks for visiting! Let's build something amazing together! 💖
 
-<img src="https://komarev.com/ghpvc/?username=yourusername&label=Profile%20Views&color=FF69B4&style=for-the-badge"/> 
-<img src="https://img.shields.io/badge/Made%20with-💖-FF69B4?style=for-the-badge"/>
 
 </div>
