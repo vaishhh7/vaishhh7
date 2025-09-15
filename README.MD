@@ -35,7 +35,7 @@
 
 - 🎥 Multi-language coding platform 
 - 💻 Supports more than 10+ languages  
-- 👥 Secure auth with authenticated platform
+- 👥 Secure and authenticated platform
 - ⚡ Real-time sync magic
 
 </td>
