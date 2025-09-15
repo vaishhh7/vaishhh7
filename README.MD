@@ -47,7 +47,7 @@
 *🛠 Tech Stack*: Next.js • React • Stream • Convex
 
 - 🎥 Real-time video calls & screen sharing  
-- 💻 Multi-language editor with 20+ problems  
+- 💻 Multi-language editor 
 - 👥 Smart role-based authentication  
 - ⚡ Lightning-fast scheduling system
 
