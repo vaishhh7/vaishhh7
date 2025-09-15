@@ -1,7 +1,7 @@
 <h1 align="center">✨ Hi there! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" height="30"> I'm Vaishnavi Tiwari ✨</h1>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Full-Stack+Developer+💖;Frontend+Enthusiast+🌸;Code+Creator+🦄;&font=Fira%20Code&center=true&width=380&height=50&duration=4000&pause=1000&color=FF69B4">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Full-Stack+Developer+💖;&font=Fira%20Code&center=true&width=380&height=50&duration=4000&pause=1000&color=FF69B4">
 </div>
 
 <img align="right" alt="Vaish ki Aish" width="300" src="https://static.wikia.nocookie.net/legendsofthemultiuniverse/images/b/b9/Giphy3_psyduck.gif/revision/latest?cb=20191022064628">
@@ -33,10 +33,10 @@
 
 *🛠 Tech Stack*: Next.js • React • Tailwind • Convex • Clerk
 
-✨ Multi-language coding platform
-💕 Supports more than 10+ languages
-🔐 Secure auth with authenticated platform
-🌈 Real-time sync magic ✨
+-✨ Multi-language coding platform
+-💕 Supports more than 10+ languages
+-🔐 Secure auth with authenticated platform
+-🌈 Real-time sync magic ✨
 
 </td>
 <td width="50%">
@@ -46,10 +46,10 @@
 
 *🛠 Tech Stack*: Next.js • React • Stream • Convex
 
-🎥 Real-time video calls & screen sharing  
-💻 Multi-language editor with 20+ problems  
-👥 Smart role-based authentication  
-⚡ Lightning-fast scheduling system
+-🎥 Real-time video calls & screen sharing  
+-💻 Multi-language editor with 20+ problems  
+-👥 Smart role-based authentication  
+-⚡ Lightning-fast scheduling system
 
 </td>
 </tr>
