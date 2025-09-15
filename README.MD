@@ -7,7 +7,7 @@
 <img align="right" alt="Vaish ki Aish" width="300" src="https://static.wikia.nocookie.net/legendsofthemultiuniverse/images/b/b9/Giphy3_psyduck.gif/revision/latest?cb=20191022064628">
 
 ## 🌸 About Me:
-- 🎓 Computer Science student at **VIT **  💕
+- 🎓 Computer Science student at VIT
 - 🌱 Currently mastering React, Node.js, Next.js 🌿 
 - 🌟 *Passionate about*: Full-stack development
 - 📍 *Location*: Delhi, India 🇮🇳
