@@ -4,16 +4,14 @@
   <img src="https://readme-typing-svg.herokuapp.com/?lines=Full-Stack+Developer+💖;Frontend+Enthusiast+🌸;Code+Creator+🦄;&font=Fira%20Code&center=true&width=380&height=50&duration=4000&pause=1000&color=FF69B4">
 </div>
 
-<img align="right" alt="coding girl" width="400" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif">
+<img align="right" alt="coding girl" width="400" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Flegendsofthemultiuniverse.fandom.com%2Fwiki%2FPsyduck&psig=AOvVaw0tJHeXSiW-p3qGJHgUOLDX&ust=1758003722747000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCKC6w7SQ2o8DFQAAAAAdAAAAABAE">
 
 ## 🌸 About Me:
-- 🎓 Computer Science student at **VIT Bhopal University** *(CGPA: 8.54)* 💕
-- 🌱 Currently mastering *React, Node.js & Cloud Technologies* 🌿
-- 💼 Frontend Development Intern at **TBI Technologies** 🚀
-- 💌 Reach me at: *vaishnavitiwari968@gmail.com* 
-- 🌟 **Passionate about**: Full-stack development, cloud computing & cybersecurity 
+- 🎓 Computer Science student at **VIT **  💕
+- 🌱 Currently mastering *React, Node.js, Next.js* 🌿 
+- 🌟 **Passionate about**: Full-stack development
 - 🦄 **Fun fact**: I love building innovative projects that make a difference! 
-- 📍 **Location**: Noida, India 🇮🇳
+- 📍 **Location**: Delhi, India 🇮🇳
 
 ## 💖 Let's Connect:
 <p align="center">
@@ -86,47 +84,26 @@
 
 ## 🏆 Certifications & Achievements:
 
-<div align="center">
+<div align="left">
 <table>
 <tr>
-<td align="center">☁️</td>
+<td align="left">☁️</td>
 <td><strong>Cloud Computing</strong><br/><em>NPTEL</em></td>
 </tr>
 <tr>
-<td align="center">🔒</td>
+<td align="left">🔒</td>
 <td><strong>Cybersecurity Foundations</strong><br/><em>Google Career Certificate</em></td>
 </tr>
 <tr>
-<td align="center">🌐</td>
+<td align="left">🌐</td>
 <td><strong>Computer Networking</strong><br/><em>Google Career Certificate</em></td>
 </tr>
 <tr>
-<td align="center">📊</td>
+<td align="left">📊</td>
 <td><strong>Marketing Analytics</strong><br/><em>NPTEL</em></td>
 </tr>
 </table>
 </div>
-
-## 📊 GitHub Stats:
-
-<div align="center">
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=synthwave&hide_border=true&bg_color=0D1117&title_color=FF69B4&icon_color=98FB98&text_color=FFFFFF"/>
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=synthwave&hide_border=true&background=0D1117&stroke=FF69B4&ring=98FB98&fire=FF69B4&currStreakLabel=98FB98"/>
-</div>
-
-<div align="center">
-<img width="70%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=synthwave&hide_border=true&bg_color=0D1117&title_color=FF69B4&text_color=FFFFFF"/>
-</div>
-
-## 🌸 Fun GitHub Metrics:
-<div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=yourusername&bg_color=0D1117&color=FF69B4&line=98FB98&point=FFB6C1&hide_border=true"/>
-</div>
-
----
-
-<div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,16&height=100&section=footer"/>
 
 ### 💖 Thanks for visiting! Let's build something amazing together! 💖
 
