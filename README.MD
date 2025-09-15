@@ -31,7 +31,7 @@
 ### 🎨 SaaS Code Editor Platform
 <img src="https://img.shields.io/badge/Status-✨%20Live-FF69B4?style=flat-square"/>
 
-*🛠 Tech Stack*: Next.js • React • Tailwind • Convex • Clerk
+*🛠 Tech Stack*: Next.js • React • Convex • Clerk
 
 - 🎥 Multi-language coding platform 
 - 💻 Supports more than 10+ languages  
