@@ -4,7 +4,7 @@
   <img src="https://readme-typing-svg.herokuapp.com/?lines=Full-Stack+Developer+💖;Frontend+Enthusiast+🌸;Code+Creator+🦄;&font=Fira%20Code&center=true&width=380&height=50&duration=4000&pause=1000&color=FF69B4">
 </div>
 
-<img align="right" alt="coding girl" width="400" src="https://legendsofthemultiuniverse.fandom.com/wiki/Psyduck?file=Giphy3_psyduck.gif">
+<img align="right" alt="coding girl" width="400" src="https://static.wikia.nocookie.net/legendsofthemultiuniverse/images/b/b9/Giphy3_psyduck.gif/revision/latest?cb=20191022064628">
 
 ## 🌸 About Me:
 - 🎓 Computer Science student at **VIT **  💕
